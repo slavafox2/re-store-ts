@@ -1,0 +1,69 @@
+{
+  "files.associations": {
+    "*.py": "python"
+  },
+  "editor.minimap.maxColumn": 0,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "files.autoSave": "off",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": -1,
+  "dreammaker.autoUpdate": false,
+  "workbench.colorTheme": "One Monokai",
+  "workbench.iconTheme": "easy-icons",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorCustomizations": {
+    "[Default Dark+]": { "sideBar.background": "#ffffff" },
+
+    "[Visual Studio Light]": {
+      "sideBar.background": "#ffffff"
+    },
+    "[Slack Theme Aubergine - NEW COLOR]": {
+      "editor.background": "#ffffff"
+    },
+    "[Default Light+]": {
+      "editor.background": "#ffffff",
+      "sideBar.foreground": "#000000",
+      "sideBar.background": "#ffffff",
+      "tab.inactiveForeground": "#000000",
+      "tab.activeForeground": "#000000",
+      "terminal.ansiWhite": "#f5dfdf"
+    },
+    "[Quiet Light]": { "editor.background": "#ffffff" },
+    "[Darcula]": {
+      "editor.background": "#000000",
+      "sideBar.background": "#ffffff"
+    },
+    "[Pirate-Theme]": {
+      "editor.background": "#ffffff"
+    },
+
+    "[One Monokai]": {
+      "editor.background": "#000000",
+      "editor.lineHighlightBackground": "#000000",
+      "sideBar.background": "#000000",
+      "tab.inactiveForeground": "#ffffff"
+    }
+  },
+  "workbench.sideBar.location": "left",
+  "workbench.editor.enablePreview": true,
+  "gitlens.gitCommands.search.showResultsInSideBar": true,
+  "workbench.editorAssociations": [
+    {
+      "viewType": "default",
+      "filenamePattern": "git-rebase-todo"
+    }
+  ],
+  "json.maxItemsComputed": 9000,
+  "// editor.semanticTokenColorCustomizations": null,
+  "editor.hover.delay": 700,
+  "editor.tokenColorCustomizations": null,
+  "bracket-pair-colorizer-2.colors": ["#4afffc", "#fdff6e"]
+}
